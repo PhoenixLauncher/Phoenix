@@ -1,8 +1,8 @@
 "main_Welcome" = "Mirë se vini në Phoenix.";
-"main_ClickInstruction" = "Prekeni";
+"main_ClickInstruction" = "Shtypeni";
 "main_PlusInstruction" = "qoshin e majtë lart për të filluar.";
 "main_GamesLoading" = "Duke skanuar Mac-in tuaj për lojra!";
-"main_GamesLoadingCaption" = "Ndonjëherë vonon 🙃";
+"main_GamesLoadingCaption" = "Ndonjëherë vonon kjo punë 🙃";
 "category_SortBy" = "Ndaj sipas";
 "category_Platform" = "Platformës";
 "category_Status" = "Statusit";
@@ -10,7 +10,7 @@
 "category_Recency" = "Herës së fundit";
 "gameList_Search" = "Kërko";
 "gameList_AddGame" = "Shto lojë të re";
-"platforms_Favorites" = "Preferuarat";
+"platforms_Favorites" = "Pëlqyerat";
 "platforms_Mac" = "Mac";
 "platforms_Steam" = "Steam";
 "platforms_GOG" = "GOG";
@@ -22,8 +22,8 @@
 "platforms_Xbox" = "Xbox";
 "platforms_Other" = "Tjetër";
 "status_Playing" = "Duke Luajtur";
-"status_Shelved" = "Rrallë";
-"status_Occasional" = "Rrallë";
+"status_Shelved" = "Të raftuar";
+"status_Occasional" = "Ndonjëherë";
 "status_Backlog" = "E Prapambetur";
 "status_Beaten" = "Muajtur";
 "status_Completed" = "Përfunduar";
@@ -37,7 +37,7 @@
 "recency_ThisYear" = "Këtë Vitë";
 "recency_Never" = "Kurr";
 "detail_Play" = "Luaj";
-"detail_LP" = "Luajtur Më Së Fundi";
+"detail_LP" = "Luajtur Për Herë Të Fundit";
 "detail_Platform" = "Platforma";
 "detail_Status" = "Statusi";
 "detail_Rating" = "Vlerësimi";
