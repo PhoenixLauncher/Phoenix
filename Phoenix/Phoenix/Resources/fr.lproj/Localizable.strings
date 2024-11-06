@@ -1,4 +1,4 @@
-"main_Welcome" = "Welcome to Phoenix.";
+"main_Welcome" = "";
 "main_ClickInstruction" = "Click the";
 "main_PlusInstruction" = "in the top left to get started.";
 "main_GamesLoading" = "Scanning your Mac for games!";
@@ -21,7 +21,7 @@
 "platforms_Sega" = "Sega";
 "platforms_Xbox" = "Xbox";
 "platforms_Other" = "Other";
-"status_Playing" = "Playing";
+"status_Playing" = "En cours";
 "status_Shelved" = "Shelved";
 "status_Occasional" = "Occasional";
 "status_Backlog" = "Backlog";
